@@ -1,4 +1,14 @@
 .DS_Store
+[2017-12-15]_HPC_(variance_models)
+[2018-01-09]_ACMSE_(box_meshes)
+[2018-02-16]_IEEESE_(distribution_models)
+[2018-10]_(metric_PCA)
+[2019-02]_NUMA_(interpolant_error_bound)
+[2019-05]_QIP_(quantum_ls)
+[2019-10]_ISTAS_(ethical_prediction)
+[2019-11]_HPC_(quintic_spline)
+[2020-01]_IEEESE_(convex_optimization)
+[2020-01]_IEEESE_(quintic_applied)
 __pycache__
 *.dvi
 *.log
